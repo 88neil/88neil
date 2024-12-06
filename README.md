@@ -5,9 +5,9 @@ trustneil/trustneil is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![trustneil's Stats](https://github-readme-stats.vercel.app/api?username=trustneil&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![trustneil's Stats](https://github-readme-stats.vercel.app/api?username=88neil&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
-![trustneil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=trustneil&theme=midnight-purple&hide_border=true)
+![trustneil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=88neil&theme=midnight-purple&hide_border=true)
 
 <!---
 credits to https://gh-stats-gen.vercel.app/ for the above stats ; midnight purple
